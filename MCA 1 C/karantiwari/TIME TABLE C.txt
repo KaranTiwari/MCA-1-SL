@@ -1,0 +1,195 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+ <title align ="center"> MCA TIME TABLE OF SECTION C </title>
+</head>
+  
+    <h2 align="left"> MCA TIME TABLE OF SECTION C </h2>
+    <table align="left" border="5" cellspacing="0">
+        <tr>
+            <td align="center" height="50" width="100"> <br>
+                <b> DAYS </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> 9:00-9:55 </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> 9:55-10:50 </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> 11:10-12:05 </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> 12:05-1:00 </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> 1:00-1:55 </b>
+            </td><td align="center" height="50" width="100"> <br>
+                <b> 1:55-2:50 </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> 3:10-4:05 </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> 4:05-4:45 </b>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" height="50" width="100"> <br>
+                <b> MONDAY </b>
+            </td>
+            <td colspan="2" align="center" height="50" width="100"> <br>
+                <b> CO LAB  </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b>  </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b>  </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b>  TMC 101 </b>
+            </td><td align="center" height="50" width="100"> <br>
+                <b> TMC 102 </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> TMC 103 </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> TMC 105 </b>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" height="50" width="100"> <br>
+                <b> TUESDAY </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b>  </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b>  </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b>  </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> TMC 105 </b>
+            </td><td align="center" height="50" width="100"> <br>
+                <b> TMC 106 </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> TMC 102 </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> TMC 104 </b>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" height="50" width="100"> <br>
+                <b> WEDNESDAY </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b>  </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> </b>
+            </td>
+            <td COLSPAN="2" align="center" height="50" width="100"> <br>
+                <b> R LAB </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> TMC 106 </b>
+            </td><td align="center" height="50" width="100"> <br>
+                <b> TMC 107 </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> TMC 104 </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> TMC 102 </b>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" height="50" width="100"> <br>
+                <b> THURSDAY </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b>  </b>
+            </td>
+            <td colspan="2"  align="center" height="50" width="100"> <br>
+                <b> OS LAB </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> TMC 104 </b>
+            </td><td align="center" height="50" width="100"> <br>
+                <b> TMC 102 </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> TMC 103 </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> TMC 103 </b>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" height="50" width="100"> <br>
+                <b> FRIDAY </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b>  </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b>  </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> TMC 101 </b>
+            </td><td align="center" height="50" width="100"> <br>
+                <b> TMC 104 </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> TMC 106 </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> TMC 107 </b>
+            </td>
+        </tr>
+        <tr>
+            <td align="center" height="50" width="100"> <br>
+                <b> SATURDAY </b>
+            </td>
+            <td colspan="2" align="center" height="50" width="100"> <br>
+                <b> HTML LAB </b>
+            </td>
+            
+            <td colspan="2" align="center" height="50" width="100"> <br>
+                <b> C LAB </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> TMC 101 </b>
+            </td><td align="center" height="50" width="100"> <br>
+                <b> TMC 106 </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> TMC 101 </b>
+            </td>
+            <td align="center" height="50" width="100"> <br>
+                <b> TMC 106 </b>
+            </td>
+        </tr>
+
+    </table>
+</body>
+</html>
